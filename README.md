@@ -30,7 +30,7 @@ Para ter acesso aos resultados de jogos ao vivo foi utilizado https://www.api-fo
 
 
 ## Frontend
-No frontend da aplicação foi utilizado https://reactjs.org utilizando os componentes do framework/template https://primefaces.org. O frontend foi desenvolvido com foco em dispositivos desktop nesta primeira entrega, ficando o desafio para o futuro de projetar uma versão mobile responsiva.
+No frontend da aplicação foi utilizado https://reactjs.org utilizando os componentes do framework/template https://primefaces.org. O frontend foi desenvolvido com foco em dispositivos desktop nesta primeira entrega, ficando o desafio para o futuro de projetar uma versão mobile responsiva. O frontend foi hospedado com https://www.netlify.com/
 
 ### Mapeamento das Telas
 - Home (/): Breve apresentação da TH Score

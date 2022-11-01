@@ -36,4 +36,3 @@ No frontend da aplicação foi utilizado https://reactjs.org utilizando os compo
 - Home (/): Breve apresentação da TH Score
 - Ao Vivo (/live): Resultados de partidas ao vivo
 - Histórico (/history) : Histórico de partidas para estudos
-- Histórico:

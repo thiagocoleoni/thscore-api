@@ -20,6 +20,7 @@ const providers = [
   '@adonisjs/lucid/providers/LucidProvider',
   
   path.join(__dirname, '..', 'providers', 'APIFootball/Provider'),
+  path.join(__dirname, '..', 'providers', 'Crisp/Provider'),
 ]
 
 /*
